@@ -1,7 +1,7 @@
 {
     "name": "wrap-images",
     "version": "1.0.0",
-    "description": "[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)\r [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)\r [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)",
+    "description": "To use a jQuery plugin that once given a container it needs to find all the images inside the container and replace them for a new element, in this case &lt;figure&gt; that contains the image &lt;img&gt; and also a &lt;figcaption&gt; with the alt text or attribute of the image.",
     "main": "src/app.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
